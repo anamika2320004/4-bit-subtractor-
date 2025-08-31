@@ -14,8 +14,8 @@ This project implements a **4-bit binary subtractor** using **Verilog HDL** on *
 ---
 
 ## Files
-- `subtractor_4bit.v` – 4-bit subtractor module
-- `tb_subtractor_4bit.v` – Testbench for simulation
+- `design.sv` – 4-bit subtractor module
+- `testbench.sv` – Testbench for simulation
 
 ---
 
